@@ -1,4 +1,4 @@
-# Udacity Blockchain Capstone
+
 
 Testing the code commands: In the eth-contracts directory-
 > truffle develop
